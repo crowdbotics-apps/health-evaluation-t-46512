@@ -1,0 +1,14 @@
+{
+  "scaffold": {
+    "type": "react-native",
+    "version": "2.6.3",
+    "cookiecutter_context": {
+      "project_name": "Health Evaluation Tool",
+      "project_slug": "health_evaluation_t_46512",
+      "project_dash_slug": "health-evaluation-t-46512",
+      "project_description": "This react_native application was built with Crowdbotics www.crowdbotics.com",
+      "owner_email": "chris.k@crowdbotics.com",
+      "ssh_key_fingerprint": "c5:bd:6d:0b:a1:39:97:83:ca:b5:13:59:14:ff:49:40"
+    }
+  }
+}
